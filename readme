@@ -1,0 +1,2 @@
+This is a forked repository from https://github.com/in28minutes/kubernetes-crash-course.git.
+i am using this to deploy apps in multiple k8s cluster i.e. in aks,eks and gcp.
